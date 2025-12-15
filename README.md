@@ -1,26 +1,27 @@
-## Hi 👋
+## Hey there 👋
 
-I'm **Yasin Armooey**, a software engineer based in Iran.  
-I primarily work as a **Front-End Web Developer**.
+I’m **Yasin Armooey**, a software engineer based in Iran and mostly working as a **Front-End Developer**.
 
-I have experience building web applications using modern tools and technologies such as **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**, and I occasionally use **Framer Motion** for animations.
+I enjoy building clean and modern web apps using **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**. For animations and UI polish, I sometimes use **Framer Motion** to make things feel alive.
 
-I always try to deliver high-quality work by following best practices, including **clean code**, **maintainability**, and **proper project structure**, with a strong focus on scalable architecture.
+I care a lot about **clean code**, **maintainability**, and **solid project structure**. I like writing code that’s not just working, but also readable, scalable, and easy to improve later.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Tech Stack
 
 - **Web:** React, TypeScript, JavaScript, Tailwind CSS  
-- **Mobile (occasionally):** Kotlin, Dart  
-- **UI & Animation:** Framer Motion, shadcn/ui
+- **Mobile (sometimes):** Kotlin, Dart  
+- **UI / Animation:** Framer Motion, shadcn/ui  
 
 ---
 
-## 🎯 Hobbies & Fun Facts
+## 🎮 A bit more about me
 
-- Gaming, watching movies and TV series (favorite series: *Stranger Things* 😄)
-- Doodling, reading books (mindset, self-improvement), listening to music and podcasts
-- Friendly and social person who enjoys making connections with others
+- I enjoy gaming, movies, and TV series (*Stranger Things* is my favorite 👀)
+- Into doodling, reading self-improvement & mindset books, plus music and podcasts
+- Chill, friendly, and always open to connecting and collaborating with new people
 
 ---
+
+📫 **Let’s connect and build cool stuff together**
