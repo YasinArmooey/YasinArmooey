@@ -48,7 +48,7 @@ I like writing code that’s not just working — but readable, scalable, and fu
 ## 📫 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Yasin_Armooey-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Yasin_Armooey)
-[![Discord](https://img.shields.io/badge/Discord-yasin-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/933372910666666074)
+[![Discord](https://img.shields.io/badge/Discord-notyuhan_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/933372910666666074)
 [![Email](https://img.shields.io/badge/Email-yasinarmooeyan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yasinarmooeyan@gmail.com)
 
 ---
