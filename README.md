@@ -32,7 +32,7 @@ I like writing code that’s not just working — but readable, scalable, and fu
 ### 🧑‍💻 IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-Daily-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-Sometimes-000000?style=flat&logo=jetbrains&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-Often-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-Tries-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ---
 
